@@ -1,5 +1,5 @@
 {
-  "name": "express-mongoose-error",
+  "name": "mongoose-error-formatter",
   "version": "1.0.0",
   "description": "Format mongoose message",
   "main": "index.js",
