@@ -1,6 +1,6 @@
 {
   "name": "mongoose-error-formatter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format mongoose message",
   "main": "index.js",
   "scripts": {
