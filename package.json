@@ -1,0 +1,26 @@
+{
+  "name": "express-mongoose-error",
+  "version": "1.0.0",
+  "description": "Format mongoose message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanskovich/mongoose-error-formatter.git"
+  },
+  "keywords": [
+    "mongoose-error",
+    "errors",
+    "format-error",
+    "express",
+    "api"
+  ],
+  "author": "bryanskovich <gilchristbryanadjei@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanskovich/mongoose-error-formatter/issues"
+  },
+  "homepage": "https://github.com/bryanskovich/mongoose-error-formatter#readme"
+}
