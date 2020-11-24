@@ -1,4 +1,4 @@
-modules.exports = err => {
+module.exports = err => {
     let message='';
     if(err.name === 'CastError') {
         message =  `Invalid ${err.path}: ${err.value}`;
